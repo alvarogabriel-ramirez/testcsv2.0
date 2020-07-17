@@ -40,10 +40,7 @@ class FirestoreCRUDPageState extends State<FirestoreCRUDPage> {
       body: ListView(
         padding: EdgeInsets.all(8),
         children: <Widget>[
-          // Form(
-          //   key: _formKey,
-          //   child: buildTextFormField(),
-          // ),
+         
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: <Widget>[
